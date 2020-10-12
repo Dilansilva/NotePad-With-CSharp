@@ -1,0 +1,31 @@
+C:\Users\bcs2.DESKTOP-FLE8BJF.000\Desktop\sc10266\csc2213\w6 - MTF\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\bcs2.DESKTOP-FLE8BJF.000\Desktop\sc10266\csc2213\w6 - MTF\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF.000\Desktop\sc10266\csc2213\w6 - MTF\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\bcs2.DESKTOP-FLE8BJF.000\Desktop\sc10266\csc2213\w6 - MTF\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\bcs2.DESKTOP-FLE8BJF.000\Desktop\sc10266\csc2213\w6 - MTF\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF.000\Desktop\sc10266\csc2213\w6 - MTF\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF.000\Desktop\sc10266\csc2213\w6 - MTF\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\bcs2.DESKTOP-FLE8BJF.000\Desktop\sc10266\csc2213\w6 - MTF\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF.000\Desktop\sc10266\csc2213\w6 - MTF\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Dumidu\Desktop\Notepad\Notepad\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Dumidu\Desktop\Notepad\Notepad\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Dumidu\Desktop\Notepad\Notepad\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Dumidu\Desktop\Notepad\Notepad\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Dumidu\Desktop\Notepad\Notepad\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Dumidu\Desktop\Notepad\Notepad\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Dumidu\Desktop\Notepad\Notepad\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Dumidu\Desktop\Notepad\Notepad\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Dumidu\Desktop\Notepad\Notepad\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Dumidu\Desktop\Notepad\Notepad\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Dumidu\Desktop\Notepad\Notepad\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\BCS - RUH\Year 02\Semester 02\CSC2213 Rapid Application Development\Practical Assignment 1\sc10266\Notepad\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\BCS - RUH\Year 02\Semester 02\CSC2213 Rapid Application Development\Practical Assignment 1\sc10266\Notepad\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\BCS - RUH\Year 02\Semester 02\CSC2213 Rapid Application Development\Practical Assignment 1\sc10266\Notepad\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\BCS - RUH\Year 02\Semester 02\CSC2213 Rapid Application Development\Practical Assignment 1\sc10266\Notepad\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\BCS - RUH\Year 02\Semester 02\CSC2213 Rapid Application Development\Practical Assignment 1\sc10266\Notepad\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\BCS - RUH\Year 02\Semester 02\CSC2213 Rapid Application Development\Practical Assignment 1\sc10266\Notepad\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\BCS - RUH\Year 02\Semester 02\CSC2213 Rapid Application Development\Practical Assignment 1\sc10266\Notepad\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\BCS - RUH\Year 02\Semester 02\CSC2213 Rapid Application Development\Practical Assignment 1\sc10266\Notepad\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\BCS - RUH\Year 02\Semester 02\CSC2213 Rapid Application Development\Practical Assignment 1\sc10266\Notepad\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\BCS - RUH\Year 02\Semester 02\CSC2213 Rapid Application Development\Practical Assignment 1\sc10266\Notepad\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\BCS - RUH\Year 02\Semester 02\CSC2213 Rapid Application Development\Practical Assignment 1\sc10266\Notepad\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
